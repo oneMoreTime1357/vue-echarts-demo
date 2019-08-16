@@ -1,5 +1,12 @@
 # vue-echarts-demo
 
+### 技术点
+
+* Ant Design of Vue
+* Echarts 
+
+练习项目
+
 ## Project setup
 ```
 yarn install
